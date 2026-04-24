@@ -21,3 +21,9 @@
 
 ## 二次认证
 - 操作要求二次输入用户登录密码
+
+## CSRF
+- 修改密码、绑定手机、转账等关键操作，表单未包含随机 Token，且页面未校验来源
+
+## 点击劫持
+- 关键操作页面未设置 `X-Frame-Options` 或 `Content-Security-Policy: frame-ancestors`
