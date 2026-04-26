@@ -1,0 +1,8 @@
+# 被测项目源码不进 skill 仓库
+项目代码/*
+!项目代码/README.md
+
+# 临时产物归集（依 通用测试原则.md §五）
+temp_dir/*
+!temp_dir/.gitkeep
+!temp_dir/说明.md
