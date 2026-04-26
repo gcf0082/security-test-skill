@@ -1,5 +1,4 @@
 ---
-name: security-test
 description: 安全测试智能体总调度。
 ---
 
